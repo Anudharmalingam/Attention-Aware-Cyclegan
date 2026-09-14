@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Training artifacts
+checkpoints/
+logs/
+results/
+
+# Common large files
+*.pth
+*.ckpt
+*.pt
+*.zip
+*.tar
+*.tar.gz
+
+# OS/editor files
+.DS_Store
+Thumbs.db
