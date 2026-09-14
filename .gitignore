@@ -7,6 +7,9 @@ checkpoints/
 logs/
 results/
 
+# Dataset files (do not upload training data)
+Dataset/
+README.md/
 # Common large files
 *.pth
 *.ckpt
