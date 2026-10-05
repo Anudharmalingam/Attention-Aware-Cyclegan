@@ -4,7 +4,7 @@
 
 This project implements an unpaired medical image translation system for CT-to-MRI conversion using a customized CycleGAN-based architecture. The main objective is to learn a mapping from CT domain images to MRI domain images without paired training data.
 
-The implementation is based on the standard CycleGAN formulation of Zhu et al. (2017), but it extends the architecture with attention-aware discriminator components and a variational latent regularization term, following the paper by Kearney et al. on attention-aware discrimination for MR-to-CT translation.
+The implementation is based on the standard CycleGAN , but it extends the architecture with attention-aware discriminator components and a variational latent regularization term, on attention-aware discrimination for MR-to-CT translation.
 
 In this project, the primary task is:
 
